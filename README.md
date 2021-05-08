@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yinhang1107
+- 👋 Hi, I’m Yin Hang
 - 👀 I’m interested in web developing...
 - 🌱 I’m currently learning HTML, CSS, JS, React, Node.js
 - 📫 Contact me on email:yinhang6305@gmail.com
@@ -16,3 +16,5 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+
